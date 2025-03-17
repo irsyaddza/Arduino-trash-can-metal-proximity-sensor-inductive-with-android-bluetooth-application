@@ -101,7 +101,7 @@ The code can be easily modified for various applications:
 
 ## 👨‍💻 Author
 
-Your Name - [Your GitHub Profile](https://github.com/irsyaddza)
+irsyaddza - [Github](https://github.com/irsyaddza)
 
 ## 🙏 Acknowledgements
 
